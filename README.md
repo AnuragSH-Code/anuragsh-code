@@ -24,9 +24,9 @@ Here are some of the technologies I work with:
 
 Feel free to reach out to me for collaborations, open-source projects, or just a chat about **Golang**!
 
-- Email: [anurag@example.com](mailto:anurag.sharma@brevo.com)
-- LinkedIn: [linkedin.com/in/anuragsharma](https://www.linkedin.com/in/anurag-linux)
-- GitHub: [github.com/anuragsharma](https://github.com/anuragsh-code)
+- Email: [anurag.sharma@brevo.com](mailto:anurag.sharma@brevo.com)
+- LinkedIn: [https://www.linkedin.com/in/anurag-linux](https://www.linkedin.com/in/anurag-linux)
+- GitHub: [https://github.com/anuragsh-code](https://github.com/anuragsh-code)
 
 ---
 
